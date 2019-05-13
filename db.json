@@ -1,6 +1,9 @@
 {
     "bands": [
-        "Metallica", "Scorpions", "Mickey Valen feat. Feli Ferraro", "Varien feat. Laura Brehm"
+        { "name": "Metallica" },
+        { "name": "Scorpions" },
+        { "name": "Mickey Valen feat. Feli Ferraro" },
+        { "name": "Varien feat. Laura Brehm" }
     ],
     "songs": [
         {
