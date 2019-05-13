@@ -1,8 +1,29 @@
 {
     "songs": [
         {
-            "title": "",
-            "url": ""
+            "band": "Metallica",
+            "name": "Enter Sandman",
+            "url": "https://sda97ghb.github.io/mock_data/Metallica%20-%20Enter%20Sandman.mp3"
+        },
+        {
+            "band": "Scorpions",
+            "name": "Send Me An Angel",
+            "url": "https://sda97ghb.github.io/mock_data/0_Scorpions%20with%20the%20Berlin%20Philharmonic%20Orchestra%20-%20Send%20Me%20An%20Angel%20(Moment%20of%20Glory%202000).mp3"
+        },
+        {
+            "band": "Mickey Valen feat. Feli Ferraro",
+            "name": "Wildcard",
+            "url": "https://sda97ghb.github.io/mock_data/Mickey%20Valen%20feat.%20Feli%20Ferraro%20-%20Wildcard.mp3"
+        },
+        {
+            "band": "Varien feat. Laura Brehm",
+            "name": "Valkyrie",
+            "url": "https://raw.githubusercontent.com/sda97ghb/mock_data/master/Varien%20feat.%20Laura%20Brehm%20-%20Valkyrie.mp3"
+        },
+        {
+            "band": "Varien feat. Laura Brehm",
+            "name": "Valkyrie III Atonement",
+            "url": "https://raw.githubusercontent.com/sda97ghb/mock_data/master/Varien%20feat.%20Laura%20Brehm%20-%20Valkyrie%20III_%20Atonement.mp3"
         }
     ]
 }
